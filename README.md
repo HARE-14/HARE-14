@@ -11,6 +11,17 @@
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HARE-14&show_icons=true&hide_border=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HARE-14&show_icons=true&hide_border=true" alt="HARE-14's GitHub stats" height="150" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HARE-14&layout=compact&hide_border=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARE-14&layout=compact&hide_border=true" alt="HARE-14's most used languages" height="150" />
+</picture>
+
+<br>
+
 ---
 
 <h3>Thanks for stopping by! ⭐</h3>
