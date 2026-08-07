@@ -13,6 +13,6 @@
 
 ---
 
-<h3>Thanks for stopping by! ⭐</h3>
+<h2>Thanks for stopping by! ⭐</h2>
 
 </div>
